@@ -327,7 +327,7 @@
                                              "in":"$0x1F3C"
                                           },
                                           "socket_out":{
-                                             "out":"$0x2707"
+                                             "out":"$0x0010"
                                           }
                                        },
                                        "layout":{
@@ -591,7 +591,7 @@
                                     "start":"$0x0015"
                                  },
                                  "socket_out":{
-                                    "next":"$0x9CBB"
+                                    "next":"$0x0020"
                                  }
                               },
                               "layout":{
@@ -644,10 +644,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main02_konohananoiede01",
-                                 "main02_konohananoiede02",
-                                 "main02_konohananoiede03",
-                                 "main02_konohananoiede04"
                               ],
                               "comment":"Chapter2",
                               "socket":{
