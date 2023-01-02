@@ -1,0 +1,1 @@
+flowtool.exe --input script_flow_data_us.json --output script_flow_data_us.bin fromjson
