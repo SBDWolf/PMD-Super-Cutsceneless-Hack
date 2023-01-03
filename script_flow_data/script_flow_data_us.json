@@ -710,6 +710,7 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
+                                 "main02_nanikanokehai01"
                               ],
                               "comment":"",
                               "socket":{
@@ -910,7 +911,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main02_kowasounamoritry1st01"
                               ],
                               "comment":"",
                               "socket":{
@@ -1093,11 +1093,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main02_kowasounamoriclear1st01",
-                                 "main02_kowasounamoriclear1st02",
-                                 "main02_kowasounamoriclear1st03",
-                                 "main02_kowasounamoriclear1st04",
-                                 "main02_kowasounamoriclear1st05"
                               ],
                               "comment":"",
                               "socket":{
@@ -1122,7 +1117,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "hanyou_kyoseisave01"
                               ],
                               "comment":"",
                               "socket":{
@@ -1161,11 +1155,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main03_hatsutoukou01",
-                                 "main03_hatsutoukou02",
-                                 "main03_hatsutoukou03",
-                                 "main03_hatsutoukou04",
-                                 "main03_hatsutoukou05",
                                  "main03_hatsutoukou06"
                               ],
                               "comment":"Chapter3",
@@ -1233,9 +1222,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main03_jugyouchuuni01",
-                                 "main03_jugyouchuuni02",
-                                 "main03_jugyouchuuni03"
                               ],
                               "comment":"",
                               "socket":{
@@ -1260,7 +1246,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main03_m03kaerimichi01"
                               ],
                               "comment":"",
                               "socket":{
@@ -1268,7 +1253,7 @@
                                     "start":"$0xD7F0"
                                  },
                                  "socket_out":{
-                                    "next":"$0x9511"
+                                    "next":"$0x505A"
                                  }
                               },
                               "layout":{
@@ -1307,8 +1292,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main03_m03kaerimichi02",
-                                 "main03_m03kaerimichi03"
                               ],
                               "comment":"",
                               "socket":{
