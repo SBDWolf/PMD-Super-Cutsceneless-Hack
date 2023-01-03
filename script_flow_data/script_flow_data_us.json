@@ -710,7 +710,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main02_nanikanokehai01"
                               ],
                               "comment":"",
                               "socket":{
@@ -777,10 +776,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main02_partnertonodeai01",
-                                 "main02_partnertonodeai02",
-                                 "main02_partnertonodeai03",
-                                 "main02_partnertonodeai04",
                                  "main02_partnertonodeai05"
                               ],
                               "comment":"",
