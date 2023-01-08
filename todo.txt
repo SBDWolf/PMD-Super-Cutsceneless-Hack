@@ -1,0 +1,3 @@
+- re-add prompt after lush forest
+- re-add team name prompt (after poliwrath river)
+- test music (i've already noticed i don't have it for school scenes during mission days)

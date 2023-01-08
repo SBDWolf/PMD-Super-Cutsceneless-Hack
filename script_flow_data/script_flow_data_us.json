@@ -6717,7 +6717,6 @@
                                     "Scenario":{
                                        "flowtype":"normal",
                                        "entry":[
-                                          "main07_tutorialquestdgclear01"
                                        ],
                                        "comment":"",
                                        "socket":{
@@ -6725,7 +6724,7 @@
                                              "start":"$0xF78E"
                                           },
                                           "socket_out":{
-                                             "next":"$0xD1B9"
+                                             "next":"$0x0019"
                                           }
                                        },
                                        "layout":{
@@ -6916,7 +6915,7 @@
                                     "start":"$0x001A"
                                  },
                                  "socket_out":{
-                                    "next":"$0xB47D"
+                                    "next":"$0x001B"
                                  }
                               },
                               "layout":{
@@ -6997,9 +6996,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main07_partnernoteian01",
-                                 "main07_partnernoteian02",
-                                 "main07_partnernoteian03",
                                  "main07_partnernoteian04"
                               ],
                               "comment":"",
