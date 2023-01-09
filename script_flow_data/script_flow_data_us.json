@@ -559,7 +559,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "hanyou_kyoseisave01"
                               ],
                               "comment":"",
                               "socket":{
@@ -584,6 +583,7 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
+                                 "main01_shinryokuclear1st01"
                               ],
                               "comment":"",
                               "socket":{
