@@ -6309,6 +6309,7 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
+                                 "main06_kesseichousadangokko03"
                               ],
                               "comment":"",
                               "socket":{
