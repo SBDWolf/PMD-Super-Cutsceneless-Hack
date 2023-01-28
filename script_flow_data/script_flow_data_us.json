@@ -23602,10 +23602,6 @@
                            "Scenario":{
                               "flowtype":"evolution",
                               "entry":[
-                                 "main25_seimeinokisenbonclear1st01",
-                                 "main25_seimeinokisenbonclear1st02",
-                                 "main25_seimeinokisenbonclear1st04",
-                                 "main25_seimeinokisenbonclear1st05"
                               ],
                               "comment":"",
                               "socket":{
@@ -23613,7 +23609,7 @@
                                     "start":"$0x0235"
                                  },
                                  "socket_out":{
-                                    "next":"$0x0239"
+                                    "next":"$0xE632"
                                  }
                               },
                               "layout":{
@@ -24184,12 +24180,6 @@
                                              "Scenario":{
                                                 "flowtype":"evolution",
                                                 "entry":[
-                                                   "main25_darkmatter1boss1st01",
-                                                   "main25_darkmatter1boss1st02",
-                                                   "main25_darkmatter1boss1st03",
-                                                   "main25_darkmatter1boss1st04",
-                                                   "main25_darkmatter1boss1st05",
-                                                   "main25_darkmatter1boss1st06",
                                                    "main25_darkmatter1boss1st07"
                                                 ],
                                                 "comment":"",
@@ -24349,8 +24339,6 @@
                            "Scenario":{
                               "flowtype":"evolution",
                               "entry":[
-                                 "main25_darkmatter2boss01",
-                                 "main25_darkmatter2boss02"
                               ],
                               "comment":"",
                               "socket":{
@@ -24375,40 +24363,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main25_darkmatter2boss02_5",
-                                 "main25_darkmatter2boss03",
-                                 "main25_darkmatter2boss05",
-                                 "main25_darkmatter2boss06",
-                                 "main25_darkmatter2boss07",
-                                 "main25_darkmatter2boss08",
-                                 "main25_darkmatter2boss09",
-                                 "main25_darkmatter2boss10",
-                                 "main25_darkmatter2boss11",
-                                 "main25_darkmatter2boss12",
-                                 "main25_darkmatter2boss13",
-                                 "main25_darkmatter2boss13_5",
-                                 "main25_darkmatter2boss14",
-                                 "main25_darkmatter2boss15",
-                                 "main25_darkmatter2boss16",
-                                 "main25_darkmatter2boss17",
-                                 "main25_darkmatter2boss18",
-                                 "main25_darkmatter2boss19",
-                                 "main25_darkmatter2boss20",
-                                 "main25_darkmatter2boss21",
-                                 "main25_darkmatter2boss22",
-                                 "main25_darkmatter2boss23",
-                                 "main25_darkmatter2boss22",
-                                 "main25_darkmatter2boss25",
-                                 "main25_darkmatter2boss22",
-                                 "main25_darkmatter2boss27",
-                                 "main25_darkmatter2boss22",
-                                 "main25_darkmatter2boss29",
-                                 "main25_darkmatter2boss22",
-                                 "main25_darkmatter2boss31",
-                                 "main25_darkmatter2boss32",
-                                 "main25_darkmatter2boss33",
-                                 "main25_darkmatter2boss34",
-                                 "main25_darkmatter2boss35",
                                  "main25_darkmatter2boss36"
                               ],
                               "comment":"",
@@ -24732,15 +24686,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main26_kecchaku01",
-                                 "main26_kecchaku02",
-                                 "main26_kecchaku03",
-                                 "main26_kecchaku04",
-                                 "main26_kecchaku05",
-                                 "main26_kecchaku06",
-                                 "main26_kecchaku07",
-                                 "main26_kecchaku08",
-                                 "main26_kecchaku09"
                               ],
                               "comment":"",
                               "socket":{
@@ -24748,7 +24693,7 @@
                                     "start":"$0x023F"
                                  },
                                  "socket_out":{
-                                    "next":"$0x0680"
+                                    "next":"$0x0240"
                                  }
                               },
                               "layout":{
@@ -24830,17 +24775,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main26_odayakamurahe01",
-                                 "main26_odayakamurahe02",
-                                 "main26_odayakamurahe03",
-                                 "main26_odayakamurahe04",
-                                 "main26_odayakamurahe05",
-                                 "main26_odayakamurahe06",
-                                 "main26_odayakamurahe07",
-                                 "main26_odayakamurahe08",
-                                 "main26_odayakamurahe09",
-                                 "main26_odayakamurahe10",
-                                 "main26_odayakamurahe11",
                                  "main26_odayakamurahe12"
                               ],
                               "comment":"",
@@ -24975,9 +24909,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main26_ending01",
-                                 "main26_ending02",
-                                 "main26_ending03"
                               ],
                               "comment":"",
                               "socket":{
@@ -24985,7 +24916,7 @@
                                     "start":"$0x0244"
                                  },
                                  "socket_out":{
-                                    "next":"$0x82F7"
+                                    "next":"$0x7B5C"
                                  }
                               },
                               "layout":{
