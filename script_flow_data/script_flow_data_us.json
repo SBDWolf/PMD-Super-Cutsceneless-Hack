@@ -21718,7 +21718,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main23_kaichuuclear1st01"
                               ],
                               "comment":"",
                               "socket":{
@@ -21726,7 +21725,7 @@
                                     "start":"$0x0212"
                                  },
                                  "socket_out":{
-                                    "next":"$0x0213"
+                                    "next":"$0x0214"
                                  }
                               },
                               "layout":{
@@ -21974,7 +21973,6 @@
                                              "Scenario":{
                                                 "flowtype":"normal",
                                                 "entry":[
-                                                   "main23_kodaiisekitochuu01"
                                                 ],
                                                 "comment":"",
                                                 "socket":{
@@ -22248,7 +22246,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main23_kodaiisekiclear1st01"
                               ],
                               "comment":"",
                               "socket":{
@@ -22256,7 +22253,7 @@
                                     "start":"$0x021E"
                                  },
                                  "socket_out":{
-                                    "next":"$0x021F"
+                                    "next":"$0x0177"
                                  }
                               },
                               "layout":{
@@ -23034,18 +23031,6 @@
                                              "Scenario":{
                                                 "flowtype":"normal",
                                                 "entry":[
-                                                   "main24_hajimarinomoriboss1st01",
-                                                   "main24_hajimarinomoriboss1st02",
-                                                   "main24_hajimarinomoriboss1st03",
-                                                   "main24_hajimarinomoriboss1st04",
-                                                   "main24_hajimarinomoriboss1st05",
-                                                   "main24_hajimarinomoriboss1st06",
-                                                   "main24_hajimarinomoriboss1st07",
-                                                   "main24_hajimarinomoriboss1st08",
-                                                   "main24_hajimarinomoriboss1st09",
-                                                   "main24_hajimarinomoriboss1st10",
-                                                   "main24_hajimarinomoriboss1st11",
-                                                   "main24_hajimarinomoriboss1st12"
                                                 ],
                                                 "comment":"",
                                                 "socket":{
@@ -23250,11 +23235,6 @@
                            "Scenario":{
                               "flowtype":"evolution",
                               "entry":[
-                                 "main24_hajimarinomoribosswin01",
-                                 "main24_hajimarinomoribosswin02",
-                                 "main24_hajimarinomoribosswin02_1",
-                                 "main24_hajimarinomoribosswin02_2",
-                                 "main24_hajimarinomoribosswin03"
                               ],
                               "comment":"",
                               "socket":{
@@ -23262,7 +23242,7 @@
                                     "start":"$0x0228"
                                  },
                                  "socket_out":{
-                                    "next":"$0x2BF7"
+                                    "next":"$0xB9BD"
                                  }
                               },
                               "layout":{
@@ -23396,8 +23376,6 @@
                            "Scenario":{
                               "flowtype":"evolution",
                               "entry":[
-                                 "main25_lastdungeon05",
-                                 "main25_lastdungeon06",
                                  "main25_lastdungeon07"
                               ],
                               "comment":"",
