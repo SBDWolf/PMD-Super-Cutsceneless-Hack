@@ -1,2 +1,3 @@
 - test music (i've already noticed i don't have it for school scenes during mission days)
 - look into if it's possible to remove dialogue before escaping home before ancient barrow
+- look into if its's possible to remove dialogue before rev 2
