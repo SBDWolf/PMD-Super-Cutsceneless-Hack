@@ -16,6 +16,7 @@ function main13_jiraachiwookosuboss01_start()
   CH("HERO"):SetPosition(SymPos("P01_HERO"))
   CH("PARTNER"):SetDir(CH("JIRAACHI"))
   CH("HERO"):SetDir(CH("JIRAACHI"))
+  CH("JIRAACHI"):SetManpu("MP_SLEEP_LP")
   SCREEN_A:FadeIn(TimeSec(0.5), true)
 
   -- CAMERA:SetSisaAzimuthDifferenceVolume(Volume(3))

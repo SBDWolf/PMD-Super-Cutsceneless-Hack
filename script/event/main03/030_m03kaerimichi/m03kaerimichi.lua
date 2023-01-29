@@ -771,6 +771,7 @@ function main03_m03kaerimichi04_start()
   CAMERA:SetTgt(SymCam("CAMERA_04"))
   CAMERA:SetSisaAzimuthDifferenceVolume(Volume(2))
   CAMERA:SetSisaRateVolume(Volume(0.5))
+  SOUND:PlayBgm(SymSnd("BGM_EVE_ZANNEN_03"), Volume(256))
   SCREEN_A:FadeIn(TimeSec(0.5), true)
 
 

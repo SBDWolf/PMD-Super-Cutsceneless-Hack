@@ -14,6 +14,7 @@ function main07_tuginoasakarahoukago1st01_start()
   CH("HERO"):SetDir(CH("PARTNER"))
   CAMERA:SetEye(SymCam("CAMERA_01"))
   CAMERA:SetTgt(SymCam("CAMERA_01"))
+  SOUND:PlayBgm(SymSnd("BGM_EVE_GAKKOU_01"), Volume(256))
   SCREEN_A:FadeIn(TimeSec(0.5), true)
 
   -- WINDOW:Narration(TimeSec(0.5), TimeSec(0.5), 1006154466)

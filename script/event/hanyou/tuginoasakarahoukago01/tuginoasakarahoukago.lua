@@ -14,6 +14,7 @@ function hanyou_tuginoasakarahoukago01_start()
   CH("NUMERA"):SetPosition(SymPos("P00_NUMERA"))
   CH("HERO"):SetDir(CH("NUMERA"))
   CH("PARTNER"):SetDir(CH("HERO"))
+  SOUND:PlayBgm(SymSnd("BGM_EVE_GAKKOU_01"), Volume(256))
   SCREEN_A:FadeIn(TimeSec(0.5), true)
 
   -- WINDOW:Narration(TimeSec(0.3), TimeSec(0.3), -1636303297)

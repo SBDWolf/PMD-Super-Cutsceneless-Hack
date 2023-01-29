@@ -14543,9 +14543,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main15_ensokushuppatsu01",
-                                 "main15_ensokushuppatsu02",
-                                 "main15_ensokushuppatsu03"
                               ],
                               "comment":"",
                               "socket":{
@@ -15729,15 +15726,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main15_enteishujinkoushinkabosswin1st02",
-                                 "main15_enteishujinkoushinkabosswin1st03",
-                                 "main15_enteishujinkoushinkabosswin1st04",
-                                 "main15_enteishujinkoushinkabosswin1st05",
-                                 "main15_enteishujinkoushinkabosswin1st07",
-                                 "main15_enteishujinkoushinkabosswin1st08",
-                                 "main15_enteishujinkoushinkabosswin1st09",
-                                 "main15_enteishujinkoushinkabosswin1st10",
-                                 "main15_enteishujinkoushinkabosswin1st11"
                               ],
                               "comment":"",
                               "socket":{
@@ -15761,7 +15749,6 @@
                         {
                            "ScenarioWithProgNo":{
                               "entry":[
-                                 "hanyou_kyoseisave01"
                               ],
                               "comment":"",
                               "socket":{
@@ -15796,7 +15783,6 @@
                                     "Scenario":{
                                        "flowtype":"normal",
                                        "entry":[
-                                          "hanyou_tsuginoasa01"
                                        ],
                                        "comment":"",
                                        "socket":{
@@ -15958,10 +15944,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main16_shujinkounokakowouchiakeru01",
-                                 "main16_shujinkounokakowouchiakeru02",
-                                 "main16_shujinkounokakowouchiakeru03",
-                                 "main16_shujinkounokakowouchiakeru04"
                               ],
                               "comment":"",
                               "socket":{
@@ -16012,7 +15994,6 @@
                                     "Scenario":{
                                        "flowtype":"normal",
                                        "entry":[
-                                          "hanyou_tsuginoasa01"
                                        ],
                                        "comment":"",
                                        "socket":{
@@ -16182,7 +16163,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "hanyou_tsuginoasa01"
                               ],
                               "comment":"",
                               "socket":{
@@ -16360,7 +16340,6 @@
                                     "Scenario":{
                                        "flowtype":"normal",
                                        "entry":[
-                                          "hanyou_tsuginoasa01"
                                        ],
                                        "comment":"",
                                        "socket":{
@@ -16552,9 +16531,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main17_aratanaruyokokujou01",
-                                 "main17_aratanaruyokokujou02",
-                                 "main17_aratanaruyokokujou03"
                               ],
                               "comment":"Chapter15",
                               "socket":{
@@ -16893,9 +16869,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main17_kessengadakeclear1st02",
-                                 "main17_kessengadakeclear1st03",
-                                 "main17_kessengadakeclear1st04"
                               ],
                               "comment":"",
                               "socket":{
@@ -16920,8 +16893,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main17_hanninwokousatsu02",
-                                 "main17_hanninwokousatsu03"
                               ],
                               "comment":"",
                               "socket":{
@@ -16972,7 +16943,6 @@
                                     "Scenario":{
                                        "flowtype":"normal",
                                        "entry":[
-                                          "hanyou_tsuginoasa01"
                                        ],
                                        "comment":"",
                                        "socket":{
@@ -17164,7 +17134,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "hanyou_tsuginoasa01"
                               ],
                               "comment":"",
                               "socket":{
@@ -17318,11 +17287,6 @@
                         {
                            "ScenarioWithProgNo":{
                               "entry":[
-                                 "main18_muranoyousu01",
-                                 "main18_muranoyousu02",
-                                 "main18_muranoyousu03",
-                                 "main18_muranoyousu04",
-                                 "main18_muranoyousu05"
                               ],
                               "comment":"Chapter16",
                               "socket":{
@@ -17913,7 +17877,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "hanyou_kyoseisave01"
                               ],
                               "comment":"",
                               "socket":{
@@ -17952,22 +17915,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main19_iberutarunokeikoku01",
-                                 "main19_iberutarunokeikoku02",
-                                 "main19_iberutarunokeikoku03",
-                                 "main19_iberutarunokeikoku04",
-                                 "main19_iberutarunokeikoku04_5",
-                                 "main19_iberutarunokeikoku05",
-                                 "main19_iberutarunokeikoku06",
-                                 "main19_iberutarunokeikoku07",
-                                 "main19_iberutarunokeikoku08",
-                                 "main19_iberutarunokeikoku09",
-                                 "main19_iberutarunokeikoku10",
-                                 "main19_iberutarunokeikoku11",
-                                 "main19_iberutarunokeikoku12",
-                                 "main19_iberutarunokeikoku13",
-                                 "main19_iberutarunokeikoku14",
-                                 "main19_iberutarunokeikoku15"
                               ],
                               "comment":"",
                               "socket":{
@@ -17992,7 +17939,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "hanyou_kyoseisave01"
                               ],
                               "comment":"",
                               "socket":{
@@ -19786,7 +19732,6 @@
                         {
                            "ScenarioWithProgNo":{
                               "entry":[
-                                 "hanyou_kyoseisave01"
                               ],
                               "comment":"",
                               "socket":{
@@ -19831,12 +19776,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main21_sanseijuu01",
-                                 "main21_sanseijuu02",
-                                 "main21_sanseijuu03",
-                                 "main21_sanseijuu04",
-                                 "main21_sanseijuu05",
-                                 "main21_sanseijuu06"
                               ],
                               "comment":"",
                               "socket":{
@@ -20667,7 +20606,6 @@
                         {
                            "ScenarioWithProgNo":{
                               "entry":[
-                                 "hanyou_kyoseisave01"
                               ],
                               "comment":"",
                               "socket":{
@@ -20698,12 +20636,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main21_motonosekaihe01",
-                                 "main21_motonosekaihe02",
-                                 "main21_motonosekaihe03",
-                                 "main21_motonosekaihe04",
-                                 "main21_motonosekaihe05",
-                                 "main21_motonosekaihe06"
                               ],
                               "comment":"",
                               "socket":{
@@ -20728,7 +20660,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "hanyou_kyoseisave01"
                               ],
                               "comment":"",
                               "socket":{
@@ -21180,7 +21111,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "hanyou_kyoseisave01"
                               ],
                               "comment":"",
                               "socket":{
@@ -21742,7 +21672,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "hanyou_kyoseisave01"
                               ],
                               "comment":"",
                               "socket":{
@@ -22270,7 +22199,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "hanyou_kyoseisave01"
                               ],
                               "comment":"",
                               "socket":{
@@ -22295,16 +22223,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main23_konohananowana01",
-                                 "main23_konohananowana02",
-                                 "main23_konohananowana03",
-                                 "main23_konohananowana04",
-                                 "main23_konohananowana05",
-                                 "main23_konohananowana06",
-                                 "main23_konohananowana07",
-                                 "main23_konohananowana08",
-                                 "main23_konohananowana09",
-                                 "main23_konohananowana10"
                               ],
                               "comment":"",
                               "socket":{
@@ -22329,14 +22247,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main23_dasshutsugo01",
-                                 "main23_dasshutsugo02",
-                                 "main23_dasshutsugo03",
-                                 "main23_dasshutsugo04",
-                                 "main23_dasshutsugo05",
-                                 "main23_dasshutsugo06",
-                                 "main23_dasshutsugo07",
-                                 "main23_dasshutsugo08"
                               ],
                               "comment":"",
                               "socket":{
@@ -22361,7 +22271,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "hanyou_kyoseisave01"
                               ],
                               "comment":"",
                               "socket":{
@@ -22400,12 +22309,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main24_darkmatternoshoutai01",
-                                 "main24_darkmatternoshoutai02",
-                                 "main24_darkmatternoshoutai03",
-                                 "main24_darkmatternoshoutai04",
-                                 "main24_darkmatternoshoutai05",
-                                 "main24_darkmatternoshoutai06"
                               ],
                               "comment":"Chapter21",
                               "socket":{
@@ -22429,7 +22332,6 @@
                         {
                            "ScenarioWithProgNo":{
                               "entry":[
-                                 "hanyou_kyoseisave01"
                               ],
                               "comment":"",
                               "socket":{
@@ -23259,27 +23161,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main24_hajimarinomoribosswin05",
-                                 "main24_hajimarinomoribosswin06",
-                                 "main24_hajimarinomoribosswin07",
-                                 "main24_hajimarinomoribosswin08",
-                                 "main24_hajimarinomoribosswin09",
-                                 "main24_hajimarinomoribosswin10",
-                                 "main24_hajimarinomoribosswin11",
-                                 "main24_hajimarinomoribosswin12",
-                                 "main24_hajimarinomoribosswin13",
-                                 "main24_hajimarinomoribosswin14",
-                                 "main24_hajimarinomoribosswin15",
-                                 "main24_hajimarinomoribosswin16",
-                                 "main24_hajimarinomoribosswin17",
-                                 "main24_hajimarinomoribosswin18",
-                                 "main24_hajimarinomoribosswin19",
-                                 "main24_hajimarinomoribosswin20",
-                                 "main24_hajimarinomoribosswin21",
-                                 "main24_hajimarinomoribosswin22",
-                                 "main24_hajimarinomoribosswin23",
-                                 "main24_hajimarinomoribosswin24",
-                                 "main24_hajimarinomoribosswin25"
                               ],
                               "comment":"",
                               "socket":{
@@ -23303,7 +23184,6 @@
                         {
                            "ScenarioWithProgNo":{
                               "entry":[
-                                 "hanyou_kyoseisave01"
                               ],
                               "comment":"",
                               "socket":{
@@ -23348,10 +23228,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main25_lastdungeon01",
-                                 "main25_lastdungeon02",
-                                 "main25_lastdungeon03",
-                                 "main25_lastdungeon04"
                               ],
                               "comment":"Chapter22",
                               "socket":{
@@ -23626,8 +23502,6 @@
                            "Scenario":{
                               "flowtype":"evolution",
                               "entry":[
-                                 "main25_torawareno01",
-                                 "main25_torawareno02"
                               ],
                               "comment":"",
                               "socket":{
@@ -24709,7 +24583,6 @@
                         {
                            "ScenarioWithProgNo":{
                               "entry":[
-                                 "hanyou_kyoseisave01"
                               ],
                               "comment":"",
                               "socket":{
@@ -24740,17 +24613,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main26_fukkatsuseimeinoki01",
-                                 "main26_fukkatsuseimeinoki02",
-                                 "main26_fukkatsuseimeinoki03",
-                                 "main26_fukkatsuseimeinoki03_5",
-                                 "main26_fukkatsuseimeinoki04",
-                                 "main26_fukkatsuseimeinoki04_5",
-                                 "main26_fukkatsuseimeinoki05",
-                                 "main26_fukkatsuseimeinoki06",
-                                 "main26_fukkatsuseimeinoki07",
-                                 "main26_fukkatsuseimeinoki08",
-                                 "main26_fukkatsuseimeinoki09"
                               ],
                               "comment":"Chapter-FINAL",
                               "socket":{
@@ -24933,7 +24795,6 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
-                                 "main26_staffroll01"
                               ],
                               "comment":"",
                               "socket":{
@@ -24957,7 +24818,6 @@
                         {
                            "ScenarioWithProgNo":{
                               "entry":[
-                                 "main26_epilogue01"
                               ],
                               "comment":"",
                               "socket":{
