@@ -4929,6 +4929,7 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
+                                 "main05_kizunasukaafu01",
                                  "main05_kizunasukaafu03"
                               ],
                               "comment":"",
