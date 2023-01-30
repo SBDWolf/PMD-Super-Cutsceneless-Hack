@@ -1246,6 +1246,7 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
+                                 "main03_m03kaerimichi01"
                               ],
                               "comment":"",
                               "socket":{
@@ -4928,6 +4929,7 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
+                                 "main05_kizunasukaafu03"
                               ],
                               "comment":"",
                               "socket":{
