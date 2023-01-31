@@ -8,18 +8,16 @@ This hack has been made by editing the Lua scripts that the game uses to control
 
 To install:
 
-If on a homebrewed 3DS, you can grab luma.zip and install the hack as a Luma LayeredFS patch.
-- Drag the Luma folder inside luma.zip right into the root of the SD card.
+- Grab the hack from the releases section. You should have a single "luma" folder containing all the modifications.
+
+Then: 
+
+For 3DS:
+- Drag that luma folder right into the root of the SD card.
+- Inside luma/titles, you can delete the folder for the version of the game you don't want install if you wish. "0004000000174600" is the folder for the US version, while "0004000000174400" is the folder for the EU version.
 - Additionally, make sure game patching is enabled on the Luma3DS menu (hold select while powering on the 3DS)
 
-If on Citra, things are a little more complicated.
-While Citra normally supports Luma LayeredFS patches just like a homebrewed 3DS would... in this case, at the time of writing there appears to be a bug with Citra that prevents this patch from being loaded. It seems like Citra refuses to load patches that are too big in file size.
-Instead, the option I'm providing for now is a way to unpack a decrypted 3DS ROM of your own, and re-build it into a cutsceneless ROM.
-You will need a decrypted (.3ds) 3DS ROM for this. You will also need around 4 GB of free space for this process (though the final ROM will be around 2GB)
-- Download Build_PSMD_Cutsceneless.zip
-- Navigate where the Build.bat script is, and open a terminal. You can open a terminal in several ways, for example by holding Shift+Left Click inside the folder and opening a Powershell/Command Prompt window,
-- Once you have the terminal open, type: `build.bat {filepath}` where `{filepath}` is the path to your decrypted 3DS ROM.
-- You will probably get a few error messages during the build process, feel free to ignore these, as long as everything eventually gets built.
-- By the end of this, you should end up with a file called PSMD_Cutsceneless_(v1.0).3DS, which you can add on Citra.
+For Citra:
+- Make sure you have Super Mystery Dungeon added to your games list. Then right click on the game, select "Open Mods Location" and you should be inside a folder called "0004000000174600" (for the US version) or "0004000000174400" (for the EU version). Onto here you should drag the "romfs" folder from the appropriate region of the hack (it is inside luma/titles/0004000000174600 for the US version. or inside luma/titles/0004000000174400 for the EU version).
 ---
 Credit to SkyEditor and its authors for allowing the extraction and recompilation of the game's Lua scripts, as well as to .Net 3DS Toolkit for providing a solution to unpack and re-pack a 3DS ROM into a modified one.
