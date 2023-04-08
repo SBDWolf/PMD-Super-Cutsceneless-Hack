@@ -7,10 +7,12 @@ end
 function main26_abagooranohanashi01_init()
 end
 function main26_abagooranohanashi01_start()
-  CAMERA:MoveToHero(TimeSec(0), ACCEL_TYPE.NONE, DECEL_TYPE.HIGH)
+  CAMERA:SetEye(SymCam("CAMERA_01"))
+  CAMERA:SetTgt(SymCam("CAMERA_01"))
   CH("HERO"):SetPosition(SymPos("P00_HERO"))
   CH("ABAGOORA"):SetDir(CH("HERO"))
   SCREEN_A:FadeIn(TimeSec(0.5), true)
+  CAMERA:MoveToHero(Speed(4, ACCEL_TYPE.NONE, DECEL_TYPE.HIGH))
   CAMERA:WaitMove()
 
   -- CAMERA:SetEye(SymCam("CAMERA_00"))
