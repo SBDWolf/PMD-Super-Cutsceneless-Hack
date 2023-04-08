@@ -911,6 +911,7 @@
                            "Scenario":{
                               "flowtype":"normal",
                               "entry":[
+                                 "main02_kowasounamoritry1st01"
                               ],
                               "comment":"",
                               "socket":{
