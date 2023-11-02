@@ -18,6 +18,7 @@ For 3DS:
 - Additionally, make sure game patching is enabled on the Luma3DS menu (hold select while powering on the 3DS)
 
 For Citra:
-- Make sure you have Super Mystery Dungeon added to your games list. Then right click on the game, select "Open Mods Location" and you should be inside a folder called "0004000000174600" (for the US version) or "0004000000174400" (for the EU version). Onto here you should drag the "romfs" folder from the appropriate region of the hack (it is inside luma/titles/0004000000174600 for the US version. or inside luma/titles/0004000000174400 for the EU version).
+- Make sure you have Super Mystery Dungeon added to your games list. Then right click on the game, select "Open Mods Location" and you should be inside a folder called "0004000000174600" (for the US version) or "0004000000174400" (for the EU version). This is a directory from Citra that will be read from to load mods.
+- Onto Citra's mod folder that just opened, you should drag the "romfs" folder from luma.zip from the appropriate region of the hack (it is inside luma/titles/0004000000174600 for the US version. or inside luma/titles/0004000000174400 for the EU version).
 ---
 Credit to SkyEditor and its authors for allowing the extraction and recompilation of the game's Lua scripts, as well as to .Net 3DS Toolkit for providing a solution to unpack and re-pack a 3DS ROM into a modified one.
